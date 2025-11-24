@@ -33,6 +33,13 @@ Handling imbalanced data: The dataset includes disproportionate numbers of norma
 
 Feature selection complexity: Identifying which network attributes strongly correlate with attack types was challenging due to high dimensionality and multicollinearity.
 
+
+
+Note
+All the results, performance metrics, datasets, and detailed simulations have been documented comprehensively in .docx format and are included in the project repository for reference.
+
+
+
 Model generalization: Ensuring models did not overfit the training data and performed well on unseen data demanded rigorous validation and tuning.
 
 Computational resource limitations: Some algorithms required significant computation time and memory, which constrained experimentation on limited hardware.
